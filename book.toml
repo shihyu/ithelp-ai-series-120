@@ -1,0 +1,9 @@
+[book]
+title = "austin70915 四本鐵人系列（120 篇）"
+authors = ["Codex"]
+language = "zh-TW"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "book"
